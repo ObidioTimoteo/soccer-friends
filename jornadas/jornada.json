@@ -9,12 +9,12 @@
       "local": {
         "id": "ESP",
         "nombre": "España",
-        "bandera": "https://raw.githubusercontent.com/tuRepo/banderas/esp.png"
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/esp.png"
       },
       "visitante": {
         "id": "BRA",
         "nombre": "Brasil",
-        "bandera": "https://raw.githubusercontent.com/tuRepo/banderas/bra.png"
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/bra.png"
       },
       "kickoffUtc": "2026-06-12T16:00:00Z",
       "resultado": {
@@ -27,12 +27,12 @@
       "local": {
         "id": "FRA",
         "nombre": "Francia",
-        "bandera": "https://raw.githubusercontent.com/tuRepo/banderas/fra.png"
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/fra.png"
       },
       "visitante": {
         "id": "GER",
         "nombre": "Alemania",
-        "bandera": "https://raw.githubusercontent.com/tuRepo/banderas/ger.png"
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/ger.png"
       },
       "kickoffUtc": "2026-06-12T18:00:00Z",
       "resultado": {
