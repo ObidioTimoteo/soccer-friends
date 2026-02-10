@@ -16,7 +16,7 @@
         "nombre": "Brasil",
         "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/bra.png"
       },
-      "kickoffUtc": "2026-06-12T16:00:00Z",
+      "kickoffHoraEspana": "17:00",
       "resultado": {
         "golesLocal": null,
         "golesVisitante": null
@@ -34,7 +34,7 @@
         "nombre": "Alemania",
         "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/ger.png"
       },
-      "kickoffUtc": "2026-06-12T18:00:00Z",
+      "kickoffHoraEspana": "03:00",
       "resultado": {
         "golesLocal": null,
         "golesVisitante": null
