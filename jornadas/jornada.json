@@ -16,6 +16,7 @@
         "nombre": "Brasil",
         "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/bra.png"
       },
+      "fecha": "12/06/2006",
       "kickoffHoraEspana": "17:00",
       "resultado": {
         "golesLocal": null,
@@ -34,6 +35,7 @@
         "nombre": "Alemania",
         "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/ger.png"
       },
+      "fecha": "20/06/2006",
       "kickoffHoraEspana": "03:00",
       "resultado": {
         "golesLocal": null,
