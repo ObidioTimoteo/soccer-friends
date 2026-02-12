@@ -7,17 +7,17 @@
     {
       "matchId": 101,
       "local": {
-        "id": "ESP",
-        "nombre": "España",
-        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/esp.png"
+        "id": "MEX",
+        "nombre": "México",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/mex.png"
       },
       "visitante": {
-        "id": "BRA",
-        "nombre": "Brasil",
-        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/bra.png"
+        "id": "RSA",
+        "nombre": "Sudáfrica",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/rsa.png"
       },
-      "fecha": "12/06/2006",
-      "kickoffHoraEspana": "17:00",
+      "fecha": "11/06/2006",
+      "kickoffHoraEspana": "21:00",
       "resultado": {
         "golesLocal": null,
         "golesVisitante": null
@@ -26,17 +26,169 @@
     {
       "matchId": 102,
       "local": {
-        "id": "FRA",
-        "nombre": "Francia",
-        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/fra.png"
+        "id": "KOR",
+        "nombre": "Corea del Sur",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
       },
       "visitante": {
-        "id": "GER",
-        "nombre": "Alemania",
-        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/ger.png"
+        "id": "XXX",
+        "nombre": "Xxxxxxxx",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
       },
-      "fecha": "20/06/2006",
-      "kickoffHoraEspana": "03:00",
+      "fecha": "12/06/2006",
+      "kickoffHoraEspana": "04:00",
+      "resultado": {
+        "golesLocal": null,
+        "golesVisitante": null
+      }
+    },
+    {
+      "matchId": 102,
+      "local": {
+        "id": "KOR",
+        "nombre": "Corea del Sur",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "visitante": {
+        "id": "XXX",
+        "nombre": "Xxxxxxxx",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "fecha": "12/06/2006",
+      "kickoffHoraEspana": "04:00",
+      "resultado": {
+        "golesLocal": null,
+        "golesVisitante": null
+      }
+    },
+    {
+      "matchId": 102,
+      "local": {
+        "id": "KOR",
+        "nombre": "Corea del Sur",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "visitante": {
+        "id": "XXX",
+        "nombre": "Xxxxxxxx",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "fecha": "12/06/2006",
+      "kickoffHoraEspana": "04:00",
+      "resultado": {
+        "golesLocal": null,
+        "golesVisitante": null
+      }
+    },
+    {
+      "matchId": 102,
+      "local": {
+        "id": "KOR",
+        "nombre": "Corea del Sur",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "visitante": {
+        "id": "XXX",
+        "nombre": "Xxxxxxxx",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "fecha": "12/06/2006",
+      "kickoffHoraEspana": "04:00",
+      "resultado": {
+        "golesLocal": null,
+        "golesVisitante": null
+      }
+    },
+    {
+      "matchId": 102,
+      "local": {
+        "id": "KOR",
+        "nombre": "Corea del Sur",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "visitante": {
+        "id": "XXX",
+        "nombre": "Xxxxxxxx",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "fecha": "12/06/2006",
+      "kickoffHoraEspana": "04:00",
+      "resultado": {
+        "golesLocal": null,
+        "golesVisitante": null
+      }
+    },
+    {
+      "matchId": 102,
+      "local": {
+        "id": "KOR",
+        "nombre": "Corea del Sur",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "visitante": {
+        "id": "XXX",
+        "nombre": "Xxxxxxxx",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "fecha": "12/06/2006",
+      "kickoffHoraEspana": "04:00",
+      "resultado": {
+        "golesLocal": null,
+        "golesVisitante": null
+      }
+    },
+    {
+      "matchId": 102,
+      "local": {
+        "id": "KOR",
+        "nombre": "Corea del Sur",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "visitante": {
+        "id": "XXX",
+        "nombre": "Xxxxxxxx",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "fecha": "12/06/2006",
+      "kickoffHoraEspana": "04:00",
+      "resultado": {
+        "golesLocal": null,
+        "golesVisitante": null
+      }
+    },
+    {
+      "matchId": 102,
+      "local": {
+        "id": "KOR",
+        "nombre": "Corea del Sur",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "visitante": {
+        "id": "XXX",
+        "nombre": "Xxxxxxxx",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "fecha": "12/06/2006",
+      "kickoffHoraEspana": "04:00",
+      "resultado": {
+        "golesLocal": null,
+        "golesVisitante": null
+      }
+    },
+    {
+      "matchId": 102,
+      "local": {
+        "id": "KOR",
+        "nombre": "Corea del Sur",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "visitante": {
+        "id": "XXX",
+        "nombre": "Xxxxxxxx",
+        "bandera": "https://raw.githubusercontent.com/ObidioTimoteo/soccer-friends/main/images/flags/kor.png"
+      },
+      "fecha": "12/06/2006",
+      "kickoffHoraEspana": "04:00",
       "resultado": {
         "golesLocal": null,
         "golesVisitante": null
